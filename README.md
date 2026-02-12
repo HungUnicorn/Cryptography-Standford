@@ -10,10 +10,10 @@ The goal of this project is to explore cryptographic vulnerabilities, implement 
 
 Each directory represents a specific exercise or cryptographic concept covered in the course.
 
-| Exercise / Project                        | Concept | Description                                                                            | Status |
-|:------------------------------------------| :--- |:---------------------------------------------------------------------------------------| :--- |
-| **[ManyTimePad](./src/many_time_pad)** | Stream Ciphers | Breaking Many-Time Pad reuse using statistical "Space Voting" and LLM post-processing. | ✅ Completed |
-
+| Exercise / Project                        | Concept        | Description                                                                            | Status |
+|:------------------------------------------|:---------------|:---------------------------------------------------------------------------------------| :--- |
+| **[ManyTimePad](./src/many_time_pad)**    | Stream Ciphers | Breaking Many-Time Pad reuse using statistical "Space Voting" and LLM post-processing. | ✅ Completed |
+| **[AesDecryption](./src/aes_decryption)** | Block Ciphers  | Implementation of CBC and CTR modes to understand stream-based counter logic.          | ✅ Completed |
 ---
 
 ## 🛠️ General Setup

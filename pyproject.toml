@@ -5,4 +5,5 @@ description = "Exercise solution for cryptography course provided by Standford"
 requires-python = ">=3.9"
 dependencies = [
     "ollama>=0.6.1",
+    "pycryptodome>=3.23.0",
 ]

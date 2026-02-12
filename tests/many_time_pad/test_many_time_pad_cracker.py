@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 
-from src.many_time_pad.ManyTimePadCracker import ManyTimePadCracker
+from src.many_time_pad.many_time_pad_cracker import ManyTimePadCracker
 
 
 class TestManyTimePadCracker(unittest.TestCase):
